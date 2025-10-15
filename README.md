@@ -13,7 +13,7 @@ A simple web application that shows countdown timers for weekly game reset sched
 ## Game Reset Schedules
 
 - **CS2**: Every Wednesday at 1:00 AM GMT
-- **Valorant**: Every Tuesday at 12:00 AM GMT (example - adjust as needed)
+- **Valorant**: Every Tuesday at 12:30 PM GMT (approximately 8:30 AM EST / 5:30 AM PST)
 
 ## Routes
 
