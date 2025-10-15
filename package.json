@@ -1,0 +1,15 @@
+{
+  "name": "game-drop-reset",
+  "version": "1.0.0",
+  "description": "Game weekly reset countdown timer with dynamic Open Graph tags",
+  "scripts": {
+    "dev": "wrangler pages dev .",
+    "deploy": "wrangler pages deploy ."
+  },
+  "keywords": ["cs2", "valorant", "countdown", "drop-reset"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}
